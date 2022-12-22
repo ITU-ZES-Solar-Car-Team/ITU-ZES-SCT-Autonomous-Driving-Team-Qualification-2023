@@ -1,7 +1,7 @@
 # ITU-SCT-Qualification-2022
 ITU-SCT-Qualification-2022
 
-This workspace is tested in ros galactic.
+This workspace is tested in ros galactic under Ubuntu Linux.
 
 For installing ros-galactic, you can install from [this link](https://docs.ros.org/en/galactic/Installation/Ubuntu-Install-Debians.html)
 
